@@ -7,5 +7,7 @@
 - 📫 How to reach me: Instagram-ismail_abi23
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spent my whole day learning in flutter
-- ⚡ Fun fact: you can ask me anything bcuz there is friend called google
+- ⚡ Fun fact: My brain's memory storage capacity to something closer to around 2.5 petabytes
+- https://github-readme-stats.vercel.app/api?username=ismailAbi&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515
 -->
+
