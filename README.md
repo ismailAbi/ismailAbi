@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**ismailAbi/ismailAbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Flutter App development ...
-- 🌱 I’m currently learning flutter ...
-- 👯 I’m looking to collaborate on Youtube...
-- 🤔 I’m looking for help with Freelancing...
-- 💬 Ask me about tech realated stuff ...
-- 📫 How to reach me:Titter-ismailAbi,instagram-ismail_abi3 ...
-- 😄 Pronouns: He/His...
-- ⚡ Fun fact: My brain's memory storage capacity 2.5 petabytes (or a million gigabytes)....
+### Hey whatsApp buddy, I'm Ismail Abilash 👋
+- 🔭 I’m currently working on Flutter App development
+- 🌱 I’m currently learning flutter
+- 👯 I’m looking to collaborate on Youtube
+- 🤔 I’m looking for help with Freelancing
+- 💬 Ask me about tech realated stuff
+- 📫 How to reach me: Instagram-ismail_abi23
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I spent my whole day learning in flutter
+- ⚡ Fun fact: you can ask me anything bcuz there is friend called google
 -->
