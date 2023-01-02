@@ -1,6 +1,6 @@
 ### Hey whatsApp buddy, I'm Ismail Abilash 👋
-- 🔭 I’m currently working on Flutter App development
-- 🌱 I’m currently learning flutter
+- 🔭 I’m currently working on Blockchain development
+- 🌱 I’m currently learning solidity 
 - 👯 I’m looking to collaborate on Youtube
 - 🤔 I’m looking for help with Freelancing
 - 💬 Ask me about tech realated stuff
